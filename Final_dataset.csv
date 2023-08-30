@@ -1,0 +1,764 @@
+marks,question,subject,topic,weightage,email
+1,What is a trie data structure used for?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between symmetric and asymmetric encryption?,Computer Science,Cryptography,1,thehitman@gmail.com
+3,What is the difference between a hub and a switch?,Computer Science,Networking,2,thehitman@gmail.com
+5,What is the purpose of network slicing in 5G networks?,Computer Science,Networking,5,thehitman@gmail.com
+1,What is a variable in programming?,Computer Science,Computer Programming,1,thehitman@gmail.com
+1,What is a database?,Computer Science,Databases,2,thehitman@gmail.com
+1,What is a relational database?,Computer Science,Databases,1,thehitman@gmail.com
+1,Explain the concept of pipelining in computer architecture.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the benefits and challenges of using a distributed database architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the purpose and use of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the concept of data hazards in pipelined processors and techniques to mitigate them.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the purpose and working of the Translation Lookaside Buffer (TLB) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the principles and benefits of using a multi-threaded processor for concurrency.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the concept of branch prediction and its impact on CPU performance.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a Harvard architecture and a Modified Harvard architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the purpose and use of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the benefits and drawbacks of using a speculative execution in a CPU.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the purpose and working of the Memory Management Unit (MMU) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a synchronous and an asynchronous memory bus.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the concept of data hazards in pipelined processors and techniques to mitigate them.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the benefits and challenges of using a superscalar processor architecture.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the purpose and working of the Translation Lookaside Buffer (TLB) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the principles and benefits of using a multi-threaded processor for concurrency.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the concept of branch prediction and its impact on CPU performance.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a Harvard architecture and a Modified Harvard architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,What is a compiler?,Computer Science,Computer Programmings,2,thehitman@gmail.com
+4,What is the difference between HTTP and HTTPS?,Computer Science,Networking,3,thehitman@gmail.com
+2,What is an IP address?,Computer Science,Networking,1,thehitman@gmail.com
+5,Explain the concept of object-oriented programming.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,What is a database?,Computer Science,Databases,2,thehitman@gmail.com
+4,What is the difference between TCP and UDP?,Computer Science,Networking,3,thehitman@gmail.com
+2,What is the role of an operating system?,Computer Science,Operating Systems,1,thehitman@gmail.com
+3,What is the purpose of HTML?,Computer Science,Web Development,2,thehitman@gmail.com
+4,Explain the concept of recursion in programming.,Computer Science,Algorithms,3,thehitman@gmail.com
+5,What is the difference between a switch and a router?,Computer Science,Networking,4,thehitman@gmail.com
+1,What is a variable in programming?,Computer Science,Programming Fundamentals,1,thehitman@gmail.com
+2,What is the purpose of CSS?,Computer Science,Web Development,1,thehitman@gmail.com
+3,What is a linked list?,Computer Science,Data Structures,2,thehitman@gmail.com
+5,Explain the concept of virtual memory.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,What is the difference between a compiler and an interpreter?,Computer Science,Computer Programmings,3,thehitman@gmail.com
+2,What is a function in programming?,Computer Science,Programming Fundamentals,1,thehitman@gmail.com
+3,What is a firewall?,Computer Science,Networking,2,thehitman@gmail.com
+4,What is the purpose of JavaScript?,Computer Science,Web Development,3,thehitman@gmail.com
+1,What is a stack data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+5,What is the difference between static and dynamic typing?,Computer Science,Computer Programmings,4,thehitman@gmail.com
+2,What is a thread?,Computer Science,Operating Systems,1,thehitman@gmail.com
+3,What is the purpose of SQL?,Computer Science,Databases,2,thehitman@gmail.com
+4,Explain the concept of Big O notation.,Computer Science,Algorithms,3,thehitman@gmail.com
+2,What is an API?,Computer Science,Web Development,2,thehitman@gmail.com
+1,What is a queue data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+3,What is the difference between symmetric and asymmetric encryption?,Computer Science,Cryptography,2,thehitman@gmail.com
+4,What is the purpose of version control systems like Git?,Computer Science,Software Development Tools,3,thehitman@gmail.com
+2,Explain the concept of time complexity in algorithms.,Computer Science,Algorithms,1,thehitman@gmail.com
+3,What is a binary tree?,Computer Science,Data Structures,2,thehitman@gmail.com
+5,What is the difference between HTTP GET and POST methods?,Computer Science,Web Development,4,thehitman@gmail.com
+4,What is a deadlock?,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,What is the purpose of XML?,Computer Science,Data Interchange,1,thehitman@gmail.com
+3,Explain the concept of inheritance in object-oriented programming.,Computer Science,Computer Programming,2,thehitman@gmail.com
+5,What is a hash table?,Computer Science,Data Structures,4,thehitman@gmail.com
+4,What is the difference between RAM and ROM?,Computer Science,Computer Hardware,3,thehitman@gmail.com
+1,What is the purpose of RESTful APIs?,Computer Science,Web Development,1,thehitman@gmail.com
+2,Explain the concept of algorithm efficiency.,Computer Science,Algorithms,1,thehitman@gmail.com
+3,What is a graph data structure?,Computer Science,Data Structures,2,thehitman@gmail.com
+5,What is the difference between a hub and a switch?,Computer Science,Networking,4,thehitman@gmail.com
+4,What is a cache memory?,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,What is the purpose of AJAX in web development?,Computer Science,Web Development,1,thehitman@gmail.com
+3,Explain the concept of polymorphism in object-oriented programming.,Computer Science,Computer Programming,2,thehitman@gmail.com
+5,What is a binary search tree?,Computer Science,Data Structures,4,thehitman@gmail.com
+1,What is the difference between synchronous and asynchronous communication?,Computer Science,Networking,1,thehitman@gmail.com
+2,What is a CPU?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+3,What is the purpose of JSON?,Computer Science,Data Interchange,2,thehitman@gmail.com
+4,Explain the concept of dynamic programming.,Computer Science,Algorithms,3,thehitman@gmail.com
+5,What is a heap data structure?,Computer Science,Data Structures,4,thehitman@gmail.com
+1,What is the difference between a local variable and a global variable in programming?,Computer Science,Programming Fundamentals,1,thehitman@gmail.com
+2,What is an operating system kernel?,Computer Science,Operating Systems,1,thehitman@gmail.com
+3,What is the purpose of CSS frameworks like Bootstrap?,Computer Science,Web Development,2,thehitman@gmail.com
+4,Explain the concept of multithreading.,Computer Science,Operating Systems,3,thehitman@gmail.com
+5,What is a trie data structure?,Computer Science,Data Structures,4,thehitman@gmail.com
+2,What is the difference between HTTP and FTP?,Computer Science,Networking,1,thehitman@gmail.com
+3,What is an assembly language?,Computer Science,Computer Programmings,2,thehitman@gmail.com
+4,What is the purpose of Docker in software development?,Computer Science,Containerization,3,thehitman@gmail.com
+5,Explain the concept of bit manipulation.,Computer Science,Computer Science Fundamentals,4,thehitman@gmail.com
+1,What is a hash function?,Computer Science,Cryptography,1,thehitman@gmail.com
+2,What is the difference between a bit and a byte?,Computer Science,Computer Science Fundamentals,1,thehitman@gmail.com
+3,What is a process in operating systems?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of client-side scripting languages like JavaScript?,Computer Science,Web Development,3,thehitman@gmail.com
+5,Explain the concept of database normalization.,Computer Science,Databases,4,thehitman@gmail.com
+1,What is a priority queue data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between virtual reality (VR) and augmented reality (AR)?,Computer Science,Virtual Reality,1,thehitman@gmail.com
+3,What is a kernel in operating systems?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of CSS pre-processors like Sass?,Computer Science,Web Development,3,thehitman@gmail.com
+5,Explain the concept of pipelining in computer architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+1,What is a trie data structure used for?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between a proxy server and a reverse proxy server?,Computer Science,Networking,1,thehitman@gmail.com
+3,What is a GPU?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+4,What is the purpose of NoSQL databases?,Computer Science,Databases,3,thehitman@gmail.com
+5,Explain the concept of parallel computing.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+1,What is a bloom filter?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between interpreted and compiled Computer Programmings?,Computer Science,Computer Programmings,1,thehitman@gmail.com
+3,What is a file system?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of server-side scripting languages like PHP?,Computer Science,Web Development,3,thehitman@gmail.com
+5,Explain the concept of machine learning.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a skip list data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between a URL and a URI?,Computer Science,Networking,1,thehitman@gmail.com
+3,What is an assembler?,Computer Science,Computer Programmings,2,thehitman@gmail.com
+4,What is the purpose of cloud computing?,Computer Science,Cloud Computing,3,thehitman@gmail.com
+5,Explain the concept of binary code.,Computer Science,Computer Science Fundamentals,4,thehitman@gmail.com
+1,What is a cryptographic hash function?,Computer Science,Cryptography,1,thehitman@gmail.com
+2,What is the difference between a byte array and a string in programming?,Computer Science,Programming Fundamentals,1,thehitman@gmail.com
+3,What is a page fault?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of content management systems (CMS) like WordPress?,Computer Science,Web Development,3,thehitman@gmail.com
+5,Explain the concept of natural language processing (NLP).,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a suffix tree data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between multi-core and multi-processor systems?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+3,What is a semaphore?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of web servers like Apache or Nginx?,Computer Science,Web Development,3,thehitman@gmail.com
+5,Explain the concept of computer vision.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a skip list data structure used for?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between authentication and authorization?,Computer Science,Security,1,thehitman@gmail.com
+3,What is a network protocol?,Computer Science,Networking,2,thehitman@gmail.com
+4,What is the purpose of agile software development methodologies?,Computer Science,Software Development,3,thehitman@gmail.com
+5,Explain the concept of fuzzy logic.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a trie data structure used for?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between symmetric and asymmetric encryption?,Computer Science,Cryptography,1,thehitman@gmail.com
+3,What is a distributed file system?,Computer Science,Distributed Systems,2,thehitman@gmail.com
+4,What is the purpose of virtual machines?,Computer Science,Virtualization,3,thehitman@gmail.com
+5,Explain the concept of machine learning algorithms.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a Bloom filter used for?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between an API and a library?,Computer Science,Software Development,1,thehitman@gmail.com
+3,What is a routing algorithm?,Computer Science,Networking,2,thehitman@gmail.com
+4,What is the purpose of data mining?,Computer Science,Data Science,3,thehitman@gmail.com
+5,Explain the concept of deep learning.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a B-tree data structure?,Computer Science,Data Structures,1,thehitman@gmail.com
+2,What is the difference between HTTP and WebSocket protocols?,Computer Science,Networking,1,thehitman@gmail.com
+3,What is a relational database?,Computer Science,Databases,2,thehitman@gmail.com
+4,What is the purpose of encryption?,Computer Science,Cryptography,3,thehitman@gmail.com
+5,Explain the concept of reinforcement learning.,Computer Science,Artificial Intelligence,4,thehitman@gmail.com
+1,What is a segment fault?,Computer Science,Operating Systems,1,thehitman@gmail.com
+2,What is the difference between a stack and a heap in memory management?,Computer Science,Computer Science Fundamentals,1,thehitman@gmail.com
+3,What is a binary semaphore?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,What is the purpose of cloud storage services like Dropbox or Google Drive?,Computer Science,Cloud Computing,3,thehitman@gmail.com
+5,What is the traveling salesman problem?,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Explain the concept of virtualization.,Computer Science,Computer Science Fundamentals,5,thehitman@gmail.com
+4,What is a quantum computer?,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the concept of neural networks.,Computer Science,Artificial Intelligence,5,thehitman@gmail.com
+4,What is the purpose of blockchain technology?,Computer Science,Cryptocurrency,5,thehitman@gmail.com
+5,Explain the concept of the CAP theorem in distributed systems.,Computer Science,Distributed Systems,5,thehitman@gmail.com
+3,What is the difference between machine learning and deep learning?,Computer Science,Artificial Intelligence,5,thehitman@gmail.com
+4,Explain the concept of sharding in databases.,Computer Science,Databases,5,thehitman@gmail.com
+5,What is the purpose of natural language generation (NLG)?,Computer Science,Artificial Intelligence,5,thehitman@gmail.com
+5,Explain the concept of consensus algorithms in blockchain.,Computer Science,Cryptocurrency,5,thehitman@gmail.com
+1,What is the purpose of a MAC address in networking?,Computer Science,Networking,1,thehitman@gmail.com
+1,Explain the concept of subnetting in IP networking.,Computer Science,Networking,1,thehitman@gmail.com
+1,What is the difference between IPv4 and IPv6?,Computer Science,Networking,1,thehitman@gmail.com
+1,What is a broadcast address in networking?,Computer Science,Networking,1,thehitman@gmail.com
+1,What is the purpose of a default gateway in networking?,Computer Science,Networking,1,thehitman@gmail.com
+2,What is a VLAN (Virtual Local Area Network)?,Computer Science,Networking,1,thehitman@gmail.com
+2,Explain the concept of port forwarding in routers.,Computer Science,Networking,1,thehitman@gmail.com
+2,What is the purpose of ARP (Address Resolution Protocol)?,Computer Science,Networking,1,thehitman@gmail.com
+2,What is the difference between half-duplex and full-duplex communication?,Computer Science,Networking,1,thehitman@gmail.com
+2,What is a subnet mask and how is it used in networking?,Computer Science,Networking,1,thehitman@gmail.com
+3,Explain the concept of NAT (Network Address Translation).,Computer Science,Networking,2,thehitman@gmail.com
+3,What is the purpose of DNS (Domain Name System) in networking?,Computer Science,Networking,2,thehitman@gmail.com
+3,What is the difference between a hub and a switch?,Computer Science,Networking,2,thehitman@gmail.com
+3,What is a router and how does it work in a network?,Computer Science,Networking,2,thehitman@gmail.com
+3,Explain the concept of QoS (Quality of Service) in networking.,Computer Science,Networking,2,thehitman@gmail.com
+4,What is a network firewall and how does it enhance security?,Computer Science,Networking,2,thehitman@gmail.com
+4,What is the purpose of ICMP (Internet Control Message Protocol)?,Computer Science,Networking,2,thehitman@gmail.com
+4,What is the difference between unicast multicast and broadcast communication?,Computer Science,Networking,2,thehitman@gmail.com
+4,Explain the concept of VPN (Virtual Private Network).,Computer Science,Networking,2,thehitman@gmail.com
+4,What is a proxy server and how does it work in a network?,Computer Science,Networking,2,thehitman@gmail.com
+1,What is the purpose of DHCP (Dynamic Host Configuration Protocol)?,Computer Science,Networking,3,thehitman@gmail.com
+1,What is the difference between a public IP address and a private IP address?,Computer Science,Networking,3,thehitman@gmail.com
+1,Explain the concept of port numbers in networking.,Computer Science,Networking,3,thehitman@gmail.com
+1,What is a MAC address table and how is it used in switches?,Computer Science,Networking,3,thehitman@gmail.com
+1,What is the purpose of the OSI (Open Systems Interconnection) model?,Computer Science,Networking,3,thehitman@gmail.com
+2,What is the difference between a router and a gateway?,Computer Science,Networking,3,thehitman@gmail.com
+2,Explain the concept of load balancing in networking.,Computer Science,Networking,3,thehitman@gmail.com
+2,What is the purpose of STP (Spanning Tree Protocol)?,Computer Science,Networking,3,thehitman@gmail.com
+2,What is a network interface card (NIC) and how does it work?,Computer Science,Networking,3,thehitman@gmail.com
+2,What is the difference between circuit-switched and packet-switched networks?,Computer Science,Networking,3,thehitman@gmail.com
+3,Explain the concept of MPLS (Multiprotocol Label Switching).,Computer Science,Networking,4,thehitman@gmail.com
+3,What is the purpose of BGP (Border Gateway Protocol) in the internet?,Computer Science,Networking,4,thehitman@gmail.com
+3,What is the difference between a stateful firewall and a stateless firewall?,Computer Science,Networking,4,thehitman@gmail.com
+5,Explain the concept of different network topologies.,Computer Science,Networking,4,thehitman@gmail.com
+3,What is the purpose of link aggregation (LACP) in networking?,Computer Science,Networking,4,thehitman@gmail.com
+4,What is a DMZ (Demilitarized Zone) in networking?,Computer Science,Networking,4,thehitman@gmail.com
+4,What is the purpose of port security on a switch?,Computer Science,Networking,4,thehitman@gmail.com
+4,What is the difference between a MAC flood attack and a DNS amplification attack?,Computer Science,Networking,4,thehitman@gmail.com
+4,Explain the concept of port mirroring (SPAN) in networking.,Computer Science,Networking,4,thehitman@gmail.com
+4,What is the purpose of VRRP (Virtual Router Redundancy Protocol)?,Computer Science,Networking,4,thehitman@gmail.com
+1,What is the difference between Ethernet and Wi-Fi (802.11)?,Computer Science,Networking,5,thehitman@gmail.com
+1,Explain the concept of IPsec (Internet Protocol Security).,Computer Science,Networking,5,thehitman@gmail.com
+1,What is the purpose of ICMPv6 (Internet Control Message Protocol version 6)?,Computer Science,Networking,5,thehitman@gmail.com
+1,What is the difference between a hub and a repeater?,Computer Science,Networking,5,thehitman@gmail.com
+1,Explain the concept of broadcast storms in networking.,Computer Science,Networking,5,thehitman@gmail.com
+2,What is a network switch fabric and how does it improve performance?,Computer Science,Networking,5,thehitman@gmail.com
+2,What is the purpose of a proxy ARP in networking?,Computer Science,Networking,5,thehitman@gmail.com
+2,What is the difference between a static IP address and a dynamic IP address?,Computer Science,Networking,5,thehitman@gmail.com
+2,Explain the concept of network congestion and how it can be managed.,Computer Science,Networking,5,thehitman@gmail.com
+2,What is a collision domain and how is it related to Ethernet networks?,Computer Science,Networking,5,thehitman@gmail.com
+3,What is a network bridge and how does it differ from a switch?,Computer Science,Networking,5,thehitman@gmail.com
+3,What is the purpose of IGMP (Internet Group Management Protocol)?,Computer Science,Networking,5,thehitman@gmail.com
+3,What is the difference between L2TP and PPTP in VPNs?,Computer Science,Networking,5,thehitman@gmail.com
+3,Explain the concept of Jumbo Frames and their advantages in networking.,Computer Science,Networking,5,thehitman@gmail.com
+3,What is a MAC flooding attack and how can it be mitigated?,Computer Science,Networking,5,thehitman@gmail.com
+4,What is a 802.1Q VLAN tag and how is it used in trunking?,Computer Science,Networking,5,thehitman@gmail.com
+4,What is the purpose of RSTP (Rapid Spanning Tree Protocol)?,Computer Science,Networking,5,thehitman@gmail.com
+4,What is the difference between an anycast and a unicast address?,Computer Science,Networking,5,thehitman@gmail.com
+4,Explain the concept of network tunneling and its applications.,Computer Science,Networking,5,thehitman@gmail.com
+4,What is a SYN flood attack and how can it affect network performance?,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of SDN (Software-Defined Networking) and its benefits.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of MPLS (Multiprotocol Label Switching) in large-scale networks?,Computer Science,Networking,5,thehitman@gmail.com
+5,Compare and contrast the advantages and disadvantages of IPv4 and IPv6.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of BGP (Border Gateway Protocol) and its role in internet routing.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of multicast communication in networking?,Computer Science,Networking,5,thehitman@gmail.com
+5,Discuss the challenges and solutions of implementing QoS (Quality of Service) in real-time applications.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of network virtualization and its impact on network management.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of network slicing in 5G networks?,Computer Science,Networking,5,thehitman@gmail.com
+5,Compare and contrast software-based firewalls and hardware-based firewalls.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of network orchestration and its role in automated network management.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of Anycast routing in distributed networks?,Computer Science,Networking,5,thehitman@gmail.com
+5,Discuss the benefits and challenges of implementing IoT (Internet of Things) in networking.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of network function virtualization (NFV) and its applications.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of DNSSEC (Domain Name System Security Extensions)?,Computer Science,Networking,5,thehitman@gmail.com
+5,Compare and contrast circuit-switched networks and packet-switched networks.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of network coding and its applications in data transmission.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of network telemetry in modern network monitoring?,Computer Science,Networking,5,thehitman@gmail.com
+5,Discuss the challenges and solutions of securing IoT devices in a network.,Computer Science,Networking,5,thehitman@gmail.com
+5,Explain the concept of link-state routing protocols and their advantages.,Computer Science,Networking,5,thehitman@gmail.com
+5,What is the purpose of network slicing in 5G networks?,Computer Science,Networking,5,thehitman@gmail.com
+1,What is an array?,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Define a linked list.,Computer Science,Data Structures,2,thehitman@gmail.com
+1,What is a stack and how does it work?,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Explain the concept of a queue.,Computer Science,Data Structures,3,thehitman@gmail.com
+1,What is the key feature of a binary search tree?,Computer Science,Data Structures,2,thehitman@gmail.com
+1,Define a hash table.,Computer Science,Data Structures,2,thehitman@gmail.com
+1,What is the purpose of a graph data structure?,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Explain the concept of a priority queue.,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Define a heap and its types.,Computer Science,Data Structures,3,thehitman@gmail.com
+1,What is the difference between a singly linked list and a doubly linked list?,Computer Science,Data Structures,2,thehitman@gmail.com
+1,Explain the time complexity of accessing an element in an array.,Computer Science,Data Structures,3,thehitman@gmail.com
+1,"Define the term hashing"""" in data structures.""""",Computer Science,Data Structures,2,thehitman@gmail.com
+1,What is the basic principle of a trie?,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Explain the concept of dynamic arrays.,Computer Science,Data Structures,2,thehitman@gmail.com
+1,Define a circular linked list.,Computer Science,Data Structures,3,thehitman@gmail.com
+1,What is the use of a bloom filter?,Computer Science,Data Structures,4,thehitman@gmail.com
+1,"Define the term sparse matrix"""" in data structures.""""",Computer Science,Data Structures,2,thehitman@gmail.com
+1,Explain the concept of a red-black tree.,Computer Science,Data Structures,4,thehitman@gmail.com
+1,What is the purpose of a B-tree?,Computer Science,Data Structures,3,thehitman@gmail.com
+1,Define a self-balancing tree.,Computer Science,Data Structures,4,thehitman@gmail.com
+1,What is the time complexity of linear search?,Computer Science,Algorithms,2,thehitman@gmail.com
+1,"Define the term greedy algorithm.""""""""",Computer Science,Algorithms,2,thehitman@gmail.com
+1,Explain the process of binary search.,Computer Science,Algorithms,3,thehitman@gmail.com
+1,What is the main idea behind the divide and conquer strategy?,Computer Science,Algorithms,3,thehitman@gmail.com
+1,"Define the term backtracking"""" in algorithms.""""",Computer Science,Algorithms,3,thehitman@gmail.com
+1,Explain the concept of the bubble sort algorithm.,Computer Science,Algorithms,2,thehitman@gmail.com
+1,What is the purpose of Dijkstra's algorithm?,Computer Science,Algorithms,4,thehitman@gmail.com
+1,"Define the term dynamic programming.""""""""",Computer Science,Algorithms,3,thehitman@gmail.com
+1,Explain the process of the quicksort algorithm.,Computer Science,Algorithms,3,thehitman@gmail.com
+1,What is the time complexity of the merge sort algorithm?,Computer Science,Algorithms,2,thehitman@gmail.com
+1,"Define the term algorithmic complexity.""""""""",Computer Science,Algorithms,2,thehitman@gmail.com
+1,Explain the concept of the breadth-first search (BFS) algorithm.,Computer Science,Algorithms,3,thehitman@gmail.com
+1,What is the use of the Kruskal's algorithm?,Computer Science,Algorithms,4,thehitman@gmail.com
+1,"Define the term time complexity.""""""""",Computer Science,Algorithms,2,thehitman@gmail.com
+1,Explain the concept of the insertion sort algorithm.,Computer Science,Algorithms,2,thehitman@gmail.com
+1,What is the purpose of the Floyd-Warshall algorithm?,Computer Science,Algorithms,4,thehitman@gmail.com
+1,"Define the term asymptotic notation"""" (Big-O notation).""""",Computer Science,Algorithms,2,thehitman@gmail.com
+1,Explain the concept of the selection sort algorithm.,Computer Science,Algorithms,2,thehitman@gmail.com
+1,What is the time complexity of the heap sort algorithm?,Computer Science,Algorithms,3,thehitman@gmail.com
+1,"Define the term graph traversal"""" in algorithms.""""",Computer Science,Algorithms,3,thehitman@gmail.com
+1,What is a variable in programming?,Computer Science,Computer Programming,1,thehitman@gmail.com
+1,"Define the term function"""" in programming.""""",Computer Science,Computer Programming,1,thehitman@gmail.com
+1,Explain the purpose of conditional statements (if-else) in programming.,Computer Science,Computer Programming,2,thehitman@gmail.com
+1,What is a loop in computer programming?,Computer Science,Computer Programming,1,thehitman@gmail.com
+1,"Define the term data type.""""""""",Computer Science,Computer Programming,1,thehitman@gmail.com
+1,Explain the concept of arrays in programming.,Computer Science,Computer Programming,1,thehitman@gmail.com
+1,What is the purpose of object-oriented programming (OOP)?,Computer Science,Computer Programming,2,thehitman@gmail.com
+1,"Define the term recursion"""" in programming.""""",Computer Science,Computer Programming,2,thehitman@gmail.com
+1,"Explain the use of the switch"""" statement in programming.""""",Computer Science,Computer Programming,2,thehitman@gmail.com
+1,What is the purpose of a constructor in object-oriented programming?,Computer Science,Computer Programming,2,thehitman@gmail.com
+1,"Define the term pointer"""" in programming.""""",Computer Science,Computer Programming,2,thehitman@gmail.com
+1,"Explain the concept of inheritance"""" in object-oriented programming.""""",Computer Science,Computer Programming,3,thehitman@gmail.com
+1,What is the purpose of exception handling in programming?,Computer Science,Computer Programming,3,thehitman@gmail.com
+1,"Define the term string"""" in programming.""""",Computer Science,Computer Programming,1,thehitman@gmail.com
+1,Explain the concept of encapsulation in object-oriented programming.,Computer Science,Computer Programming,3,thehitman@gmail.com
+1,"What is the purpose of the for"""" loop in programming?""""",Computer Science,Computer Programming,1,thehitman@gmail.com
+1,"Define the term polymorphism"""" in object-oriented programming.""""",Computer Science,Computer Programming,3,thehitman@gmail.com
+1,Explain the concept of file input/output (I/O) in programming.,Computer Science,Computer Programming,2,thehitman@gmail.com
+1,"What is the purpose of the while"""" loop in programming?""""",Computer Science,Computer Programming,1,thehitman@gmail.com
+1,"Define the term abstraction"""" in object-oriented programming.""""",Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Explain the advantages and disadvantages of using an array.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Compare and contrast singly linked lists and doubly linked lists.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Describe the working principle of a stack and its real-world applications.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Discuss the different methods of traversing a binary tree.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Explain the process of hash collision resolution in a hash table.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Compare the time complexities of linear search and binary search.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Implement a priority queue using a binary heap and demonstrate its usage.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,How can you implement a circular queue using an array?,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Describe the concept of a self-adjusting list and its benefits.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Implement the operations of insert and delete for a binary search tree.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Discuss the role of a hash function in a hash table and its requirements.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Explain the process of balancing a red-black tree after a node insertion.,Computer Science,Data Structures,5,thehitman@gmail.com
+2,Implement Dijkstra's algorithm to find the shortest path in a weighted graph.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Describe the steps to perform the union operation in a disjoint-set data structure.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Discuss the working principle of a trie and its use in string searching.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Compare the time complexities of various sorting algorithms.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Implement the breadth-first search (BFS) algorithm for a graph traversal.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Discuss the concept of a minimum spanning tree (MST) and its applications.,Computer Science,Data Structures,4,thehitman@gmail.com
+2,Implement a stack using a linked list and demonstrate its operations.,Computer Science,Data Structures,3,thehitman@gmail.com
+2,Discuss the applications of bloom filters and their limitations.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Discuss the implementation of a graph data structure using an adjacency matrix and an adjacency list.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Implement a skip list with efficient insertion deletion and search operations.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Explain the principles of the Boyer-Moore algorithm for pattern matching with multiple patterns.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Discuss the design and working of a k-ary heap and its comparison with a binary heap.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Implement a B-tree and analyze its time complexity for search insert and delete operations.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Explain the concept of a suffix tree and its use in pattern matching and substring search.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Discuss the advantages and disadvantages of using a trie over a hash table for dictionary storage.,Computer Science,Data Structures,4,thehitman@gmail.com
+4,Implement a radix sort algorithm for integers and analyze its time complexity.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Describe the working of a Cartesian tree and its applications in solving range queries.,Computer Science,Data Structures,4,thehitman@gmail.com
+4,Discuss the principles of the Edmonds-Karp algorithm for maximum flow in a network.,Computer Science,Data Structures,5,thehitman@gmail.com
+4,Discuss the concept of a dynamic programming approach for solving the longest common subsequence (LCS) problem.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Implement the Boyer-Moore-Galil algorithm for string matching and analyze its efficiency.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Explain the process of finding the strongly connected components (SCCs) in a directed graph.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Discuss the design and working of the Knapsack problem using the 0-1 Knapsack algorithm.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Implement the Ford-Fulkerson algorithm using the depth-first search (DFS) for finding maximum flow.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Explain the concept of the Rabin-Karp algorithm for multiple pattern string matching with rolling hash.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Discuss the working principles of a suffix array and its use in substring search and pattern matching.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Implement the Floyd-Warshall algorithm for finding all-pairs shortest paths and analyze its efficiency.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Describe the process of constructing a B+ tree and its applications in database systems.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Discuss the principles of the Minimum Spanning Tree (MST) using Prim's algorithm with binary heaps.,Computer Science,Algorithms,5,thehitman@gmail.com
+4,Discuss the principles of operator overloading in Python with multiple examples.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Implement a stack-based algorithm to convert infix expressions to postfix expressions.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Explain the process of implementing a circular queue with dynamic resizing in C++,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Discuss the principles of inheritance and polymorphism in object-oriented programming.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Implement a hash table using separate chaining with efficient collision handling.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Explain the concept of virtual functions and late binding in C++.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Discuss the design and implementation of a trie-based spell checker.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Implement a function to perform matrix multiplication using the Strassen algorithm.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Describe the principles of exception propagation and handling in nested function calls.,Computer Science,Computer Programming,5,thehitman@gmail.com
+4,Discuss the working of the Boyer-Moore-Horspool algorithm for substring searching.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Implement a skip graph and discuss its advantages over traditional skip lists.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Explain the concept of a Fibonacci heap and its use in the Dijkstra's algorithm for graph traversal.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Discuss the design and working of a quadtree and its applications in 2D spatial indexing.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Implement a dynamic hash table using the Cuckoo hashing technique and analyze its efficiency.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Describe the working of a suffix tree construction algorithm using Ukkonen's method.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Discuss the principles of the Karger's algorithm for finding the minimum cut in an undirected graph.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Implement a red-black tree and demonstrate its balancing properties during insertion and deletion.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Explain the concept of persistent data structures and their applications in functional programming.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Discuss the design and implementation of a van Emde Boas tree for integer data storage.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Implement a priority queue using a Fibonacci heap and analyze its time complexities.,Computer Science,Data Structures,5,thehitman@gmail.com
+5,Explain the principles of the A* algorithm with an admissible heuristic for pathfinding.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Implement the Huffman coding algorithm for data compression and analyze its efficiency.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Discuss the working of the Boyer-Moore-Good-Suffix algorithm for string searching.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Implement the Dinic's algorithm for finding maximum flow in a network and analyze its efficiency.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Describe the process of constructing a suffix tree using Ukkonen's algorithm.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Discuss the principles of randomized algorithms for solving graph problems.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Implement a dynamic programming solution for the Traveling Salesman Problem (TSP).,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Explain the concept of parallel algorithms and their applications in computer systems.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Discuss the working principles of the Strongly Polynomial Time Algorithm for Linear Programming.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Implement the Longest Increasing Subsequence (LIS) problem using a binary search approach.,Computer Science,Algorithms,5,thehitman@gmail.com
+5,Discuss the implementation of the Visitor design pattern in object-oriented programming.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Implement a function to perform matrix exponentiation using the binary exponentiation method.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Explain the concept of lambda expressions and functional interfaces in Java.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Discuss the design and implementation of a garbage collector in a programming language.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Implement a function to solve the N-Queens problem using backtracking with pruning.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Describe the principles of multi-threading and synchronization in concurrent programming.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Discuss the implementation of the Union-Find data structure using path compression and union by rank.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Implement a dynamic programming solution for the Edit Distance problem.,Computer Science,Computer Programming,5,thehitman@gmail.com
+5,Explain the process of constructing a KD tree and its applications in efficient k-nearest neighbor search.,Computer Science,Computer Programming,5,thehitman@gmail.com
+1,Explain the concept of multitasking in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,What is a process in the context of operating systems?,Computer Science,Operating Systems,1,thehitman@gmail.com
+1,Discuss the purpose of virtual memory in modern operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,Define deadlock in operating systems and how it can be avoided.,Computer Science,Operating Systems,4,thehitman@gmail.com
+1,What is a semaphore and how is it used for process synchronization?,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,Explain the difference between a monolithic kernel and a microkernel in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,What are the main functions of an operating system?,Computer Science,Operating Systems,1,thehitman@gmail.com
+1,Discuss the role of a file system in an operating system.,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,What is a device driver and why is it essential in operating systems?,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,Explain the purpose of the process scheduler in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,What are the differences between preemptive and non-preemptive scheduling in operating systems?,Computer Science,Operating Systems,4,thehitman@gmail.com
+1,Discuss the advantages and disadvantages of using a GUI in an operating system.,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,Explain the concept of demand paging in virtual memory management.,Computer Science,Operating Systems,5,thehitman@gmail.com
+1,What is a context switch and why is it necessary in multitasking operating systems?,Computer Science,Operating Systems,4,thehitman@gmail.com
+1,Discuss the role of the bootstrap loader in the booting process of an operating system.,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,Explain the concept of file permissions in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+1,What is a page fault and how is it handled in virtual memory systems?,Computer Science,Operating Systems,4,thehitman@gmail.com
+1,Discuss the purpose of a disk scheduler in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,What is the role of the I/O manager in an operating system?,Computer Science,Operating Systems,3,thehitman@gmail.com
+1,Explain the difference between internal and external fragmentation in memory management.,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,Explain the concept of virtualization and its benefits in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,Discuss the working principles of the first-fit memory allocation algorithm.,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,What is a race condition and how can it be avoided in concurrent programming?,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,Explain the concept of process synchronization using semaphores in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,Discuss the role of the page table in virtual memory management.,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,What are system calls and why are they necessary in operating systems?,Computer Science,Operating Systems,2,thehitman@gmail.com
+2,Explain the purpose of the disk arm scheduling algorithm in disk management.,Computer Science,Operating Systems,5,thehitman@gmail.com
+2,Discuss the differences between static and dynamic linking in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,What is the purpose of a spooling mechanism in operating systems?,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,Explain the concept of thrashing in virtual memory systems and how it can be prevented.,Computer Science,Operating Systems,5,thehitman@gmail.com
+2,Discuss the benefits and drawbacks of using a priority-based scheduling algorithm in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,What is the working principle of the LRU (Least Recently Used) page replacement algorithm?,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,Explain the concept of mutual exclusion in process synchronization.,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,Discuss the purpose of the system clock in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+2,What is the role of a cache manager in an operating system?,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,Explain the concept of deadlock detection and recovery in operating systems.,Computer Science,Operating Systems,5,thehitman@gmail.com
+2,Discuss the differences between symmetric and asymmetric multiprocessing in operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+2,What is the purpose of the buffer cache in operating systems?,Computer Science,Operating Systems,3,thehitman@gmail.com
+2,Explain the concept of a process control block (PCB) in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,Describe the working principles of the Banker's algorithm for deadlock avoidance.,Computer Science,Operating Systems,4,thehitman@gmail.com
+3,Discuss the advantages and disadvantages of using demand-paged virtual memory.,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,What is the purpose of a command-line interpreter (shell) in an operating system?,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,Explain the concept of a zombie process and how it is handled in operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+3,Discuss the differences between contiguous and non-contiguous memory allocation techniques.,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,What is the role of a page fault handler in virtual memory management?,Computer Science,Operating Systems,5,thehitman@gmail.com
+3,Explain the concept of a thread in the context of multithreading in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,Discuss the benefits and drawbacks of using the FIFO (First-In-First-Out) page replacement algorithm.,Computer Science,Operating Systems,4,thehitman@gmail.com
+3,What is the purpose of a logical address and a physical address in memory management?,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,Explain the concept of an interrupt handler in operating systems.,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,Discuss the role of the dispatcher in process scheduling.,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,What is the purpose of a disk cache in operating systems?,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,Explain the differences between static and dynamic memory allocation in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,Discuss the advantages and disadvantages of using a round-robin scheduling algorithm.,Computer Science,Operating Systems,4,thehitman@gmail.com
+3,What is the working principle of the Optimal page replacement algorithm?,Computer Science,Operating Systems,5,thehitman@gmail.com
+3,Explain the concept of a critical section in concurrent programming.,Computer Science,Operating Systems,4,thehitman@gmail.com
+3,Discuss the differences between primary memory and secondary memory in an operating system.,Computer Science,Operating Systems,3,thehitman@gmail.com
+3,What is the purpose of a job queue in operating systems?,Computer Science,Operating Systems,2,thehitman@gmail.com
+3,Explain the concept of a distributed file system and its benefits.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Describe the working principles of the buddy memory allocation technique.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Discuss the advantages and disadvantages of using a priority inversion in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,What is the purpose of a dirty bit in a page table entry?,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,Explain the concept of process migration in distributed operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Discuss the differences between static and dynamic relocation in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,What is the working principle of the Scan disk scheduling algorithm?,Computer Science,Operating Systems,5,thehitman@gmail.com
+4,Explain the concept of kernel mode and user mode in operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using the Shortest Job Next (SJN) scheduling algorithm.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,What is the purpose of the process state diagram in operating systems?,Computer Science,Operating Systems,2,thehitman@gmail.com
+4,Explain the concept of cache coherence in multiprocessor systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Discuss the role of the Swapping mechanism in virtual memory management.,Computer Science,Operating Systems,5,thehitman@gmail.com
+4,What is the purpose of a logical file system in an operating system?,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Explain the differences between a cooperative and preemptive multitasking model.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,Discuss the working principles of the Second-Chance page replacement algorithm.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Explain the concept of process scheduling and discuss the various scheduling algorithms used in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,Discuss the purpose and working principles of a memory management unit (MMU) in virtual memory systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Explain the differences between internal fragmentation and external fragmentation in memory allocation.,Computer Science,Operating Systems,3,thehitman@gmail.com
+4,Discuss the advantages and disadvantages of using a distributed file system in a network of computers.,Computer Science,Operating Systems,4,thehitman@gmail.com
+4,Explain the concept of thread synchronization and the mechanisms used to achieve it in multithreading.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the challenges and techniques involved in managing shared resources in a multiprocessor system.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the concept of process communication and synchronization using inter-process communication (IPC) mechanisms.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the working principles and benefits of using a demand-paging virtual memory system in modern operating systems.,Computer Science,Operating Systems,5,thehitman@gmail.com
+5,Explain the concept of disk scheduling and compare the performance of different disk scheduling algorithms.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the differences between symmetric and asymmetric multiprocessing and their applications in operating systems.,Computer Science,Operating Systems,3,thehitman@gmail.com
+5,Explain the role of a cache manager and the strategies used for cache management in an operating system.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the challenges and approaches in handling concurrency and avoiding race conditions in concurrent programming.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the concept of deadlock and the techniques used for deadlock detection and prevention in operating systems.,Computer Science,Operating Systems,5,thehitman@gmail.com
+5,Discuss the working principles of the buddy memory allocation technique and compare it with other memory allocation methods.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the concept of process synchronization and mutual exclusion using semaphores and monitors in operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the advantages and disadvantages of using virtual memory and its impact on system performance and memory management.,Computer Science,Operating Systems,5,thehitman@gmail.com
+5,Explain the concept of thread management and the advantages of using threads in the context of multithreading in operating systems.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the role of the kernel in an operating system and the different modes (kernel mode and user mode) of operation.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the purpose and working of the page replacement algorithms including: FIFO LRU and Optimal.,Computer Science,Operating Systems,5,thehitman@gmail.com
+5,Discuss the principles and advantages of using a priority-based scheduling algorithm in a multitasking operating system.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the concept of deadlock avoidance and the Banker's algorithm for handling resource allocation in an operating system.,Computer Science,Operating Systems,5,thehitman@gmail.com
+5,Discuss the role of the memory management unit (MMU) in virtual memory systems and the process of address translation.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the working principles of the round-robin scheduling algorithm and its role in process scheduling.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Discuss the purpose and implementation of the spooling mechanism in an operating system for managing I/O tasks.,Computer Science,Operating Systems,4,thehitman@gmail.com
+5,Explain the concept of thread safety and the techniques used to ensure thread safety in multithreaded programming.,Computer Science,Operating Systems,4,thehitman@gmail.com
+1,What is a database?,Computer Science,Databases,2,thehitman@gmail.com
+1,Define a primary key.,Computer Science,Databases,1,thehitman@gmail.com
+1,What is normalization in databases?,Computer Science,Databases,3,thehitman@gmail.com
+1,Explain the concept of a foreign key.,Computer Science,Databases,2,thehitman@gmail.com
+1,What is a relational database?,Computer Science,Databases,1,thehitman@gmail.com
+1,What is a table in a database?,Computer Science,Databases,1,thehitman@gmail.com
+1,"Define the term ACID"""" in the context of databases.""""",Computer Science,Databases,4,thehitman@gmail.com
+1,What is a database management system (DBMS)?,Computer Science,Databases,1,thehitman@gmail.com
+1,What is the purpose of an index in a database?,Computer Science,Databases,2,thehitman@gmail.com
+1,Explain the concept of data redundancy.,Computer Science,Databases,3,thehitman@gmail.com
+1,What are database transactions?,Computer Science,Databases,1,thehitman@gmail.com
+1,"Define the term data integrity.""""""""",Computer Science,Databases,2,thehitman@gmail.com
+1,What is a schema in a database?,Computer Science,Databases,1,thehitman@gmail.com
+1,Explain the difference between SQL and NoSQL databases.,Computer Science,Databases,3,thehitman@gmail.com
+1,What is the role of a DBA (Database Administrator)?,Computer Science,Databases,2,thehitman@gmail.com
+1,What is data modeling in databases?,Computer Science,Databases,1,thehitman@gmail.com
+1,"Define the term data warehouse.""""""""",Computer Science,Databases,3,thehitman@gmail.com
+1,What is a composite key?,Computer Science,Databases,2,thehitman@gmail.com
+1,Explain the concept of data normalization.,Computer Science,Databases,3,thehitman@gmail.com
+1,What is the purpose of a view in a database?,Computer Science,Databases,2,thehitman@gmail.com
+2,Discuss the advantages and disadvantages of using a relational database.,Computer Science,Databases,3,thehitman@gmail.com
+2,Explain the differences between a clustered and a non-clustered index.,Computer Science,Databases,4,thehitman@gmail.com
+2,What is the role of a trigger in a database?,Computer Science,Databases,3,thehitman@gmail.com
+2,Discuss the purpose and working of the SELECT statement in SQL.,Computer Science,Databases,3,thehitman@gmail.com
+2,Explain the concept of data denormalization and its use in databases.,Computer Science,Databases,4,thehitman@gmail.com
+2,What are the different types of database constraints and how are they used?,Computer Science,Databases,2,thehitman@gmail.com
+2,Discuss the benefits and drawbacks of using a distributed database system.,Computer Science,Databases,4,thehitman@gmail.com
+2,Explain the differences between logical and physical data independence.,Computer Science,Databases,3,thehitman@gmail.com
+2,What is the purpose of a JOIN operation in SQL?,Computer Science,Databases,3,thehitman@gmail.com
+2,Discuss the working principles of the COMMIT and ROLLBACK commands in database transactions.,Computer Science,Databases,3,thehitman@gmail.com
+2,Explain the concept of referential integrity in database design.,Computer Science,Databases,4,thehitman@gmail.com
+2,Discuss the advantages of using an ORM (Object-Relational Mapping) tool in database applications.,Computer Science,Databases,3,thehitman@gmail.com
+2,What is the purpose of the GROUP BY clause in SQL?,Computer Science,Databases,2,thehitman@gmail.com
+2,Explain the concept of data aggregation in databases.,Computer Science,Databases,3,thehitman@gmail.com
+2,Discuss the differences between a one-to-many and a many-to-many relationship in database design.,Computer Science,Databases,4,thehitman@gmail.com
+2,What is the role of a stored procedure in a database?,Computer Science,Databases,3,thehitman@gmail.com
+2,Explain the purpose of the DDL (Data Definition Language) in database management.,Computer Science,Databases,2,thehitman@gmail.com
+2,Discuss the benefits of using database normalization techniques.,Computer Science,Databases,3,thehitman@gmail.com
+2,What is the purpose of the WHERE clause in SQL?,Computer Science,Databases,2,thehitman@gmail.com
+2,Explain the concept of a candidate key in database design.,Computer Science,Databases,3,thehitman@gmail.com
+3,Discuss the principles and benefits of using the Entity-Relationship (ER) model for database design.,Computer Science,Databases,4,thehitman@gmail.com
+3,Explain the concept of a transaction log and its importance in database recovery.,Computer Science,Databases,4,thehitman@gmail.com
+3,Discuss the differences between a primary key candidate key and superkey in database design.,Computer Science,Databases,4,thehitman@gmail.com
+3,Explain the purpose and working of the UPDATE statement in SQL.,Computer Science,Databases,3,thehitman@gmail.com
+3,Discuss the benefits and drawbacks of using denormalization techniques in databases.,Computer Science,Databases,4,thehitman@gmail.com
+3,What are the various types of JOIN operations in SQL and how are they used?,Computer Science,Databases,3,thehitman@gmail.com
+3,Explain the concept of data partitioning in distributed database systems.,Computer Science,Databases,4,thehitman@gmail.com
+3,Discuss the working principles of the INSERT statement in SQL.,Computer Science,Databases,3,thehitman@gmail.com
+3,What is the role of database indexes in query optimization?,Computer Science,Databases,4,thehitman@gmail.com
+3,Explain the concept of data concurrency control in database transactions.,Computer Science,Databases,4,thehitman@gmail.com
+3,Discuss the differences between a logical schema and a physical schema in database design.,Computer Science,Databases,3,thehitman@gmail.com
+3,Explain the purpose and use of triggers in database applications.,Computer Science,Databases,3,thehitman@gmail.com
+3,Discuss the benefits of using views in a database management system.,Computer Science,Databases,3,thehitman@gmail.com
+3,What is the purpose of the HAVING clause in SQL?,Computer Science,Databases,2,thehitman@gmail.com
+3,Explain the concept of data warehousing and its benefits for business intelligence.,Computer Science,Databases,3,thehitman@gmail.com
+3,Discuss the differences between a surrogate key and a natural key in database design.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the principles and challenges of database replication for high availability.,Computer Science,Databases,4,thehitman@gmail.com
+4,Explain the concept of data sharding and its use in distributed databases.,Computer Science,Databases,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using the NoSQL database model.,Computer Science,Databases,3,thehitman@gmail.com
+4,Explain the purpose and use of stored procedures and functions in a database.,Computer Science,Databases,4,thehitman@gmail.com
+4,Discuss the differences between a clustered and a non-clustered index in database management.,Computer Science,Databases,3,thehitman@gmail.com
+4,Explain the concept of data encryption and its importance in database security.,Computer Science,Databases,4,thehitman@gmail.com
+4,Discuss the benefits and challenges of using database triggers for data validation.,Computer Science,Databases,3,thehitman@gmail.com
+4,Explain the purpose and working of the UNION and UNION ALL operators in SQL.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the differences between vertical and horizontal partitioning in database design.,Computer Science,Databases,4,thehitman@gmail.com
+4,Explain the concept of data archiving and its importance in database maintenance.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using the EAV (Entity-Attribute-Value) model in databases.,Computer Science,Databases,4,thehitman@gmail.com
+4,Explain the purpose and use of the CASE statement in SQL queries.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the differences between an OLTP (Online Transaction Processing) and an OLAP (Online Analytical Processing) database.,Computer Science,Databases,4,thehitman@gmail.com
+4,Explain the concept of a materialized view and its use for query optimization.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the benefits and challenges of using a distributed database architecture.,Computer Science,Databases,4,thehitman@gmail.com
+4,Explain the purpose and working of the DELETE statement in SQL.,Computer Science,Databases,3,thehitman@gmail.com
+4,Discuss the differences between a 1NF (First Normal Form) and a 2NF (Second Normal Form) database schema.,Computer Science,Databases,3,thehitman@gmail.com
+4,Explain the concept of a database transaction and the properties of ACID.,Computer Science,Databases,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using database views for data security and access control.,Computer Science,Databases,3,thehitman@gmail.com
+4,Explain the concept of data replication and the different replication method such as master-slave and multi-master replication.,Computer Science,Databases,4,thehitman@gmail.com
+5,Discuss the principles and benefits of using a relational database management system (RDBMS).,Computer Science,Databases,5,thehitman@gmail.com
+5,Explain the concept of database normalization and its role in eliminating data redundancy and improving data integrity.,Computer Science,Databases,4,thehitman@gmail.com
+5,Discuss the challenges and techniques involved in ensuring data consistency and integrity in a distributed database system.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the purpose and working of the JOIN operation in SQL including INNER JOIN LEFT JOIN RIGHT JOIN and FULL JOIN.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the differences between a row-based and a column-based database storage model and their respective advantages.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the concept of a database transaction and the importance of transaction management for data consistency and recovery.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the principles and benefits of using database indexing for query performance optimization.,Computer Science,Databases,5,thehitman@gmail.com
+5,Explain the purpose and use of database constraints including PRIMARY KEY FOREIGN KEY UNIQUE and CHECK constraints.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the challenges and techniques involved in database replication for achieving high availability and fault tolerance.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the concept of data warehousing and its use for business intelligence and data analytics.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the principles and challenges of database sharding for scalability and performance in distributed database systems.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the purpose and use of stored procedures and functions in a database management system (DBMS).,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the differences between a star schema and a snowflake schema in data warehousing design.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the concept of data partitioning and its use for improving data distribution and query performance in distributed databases.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the benefits and drawbacks of using the CAP theorem for distributed database design.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the purpose and working of the SQL JOIN operation including examples of multi-table joins and self-joins.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the differences between database backups and database snapshots and their respective use cases for data recovery.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the concept of database replication and the different replication methods such as master-slave and multi-master replication.,Computer Science,Databases,5,thehitman@gmail.com
+5,Discuss the principles and challenges of database sharding for achieving horizontal scalability in distributed databases.,Computer Science,Databases,4,thehitman@gmail.com
+5,Explain the purpose and use of data caching in a database management system (DBMS) for improving query performance.,Computer Science,Databases,5,thehitman@gmail.com
+1,What is the CPU (Central Processing Unit)?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,Define a cache memory.,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,What is the role of the ALU (Arithmetic Logic Unit)?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,Explain the concept of a register in a CPU.,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,What is the purpose of the control unit in a processor?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,"Define the term instruction set architecture.""""""""",Computer Science,Computer Architecture,3,thehitman@gmail.com
+1,What is the function of the program counter (PC)?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,Explain the concept of pipelining in computer architecture.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+1,What is the role of a clock signal in a CPU?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,"Define the term Von Neumann architecture.""""""""",Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,What is the purpose of the MAR (Memory Address Register)?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,Explain the concept of parallel processing.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+1,What is the function of the data bus in a computer system?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,"Define the term Harvard architecture.""""""""",Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,What is the purpose of the MDR (Memory Data Register)?,Computer Science,Computer Architecture,1,thehitman@gmail.com
+1,Explain the concept of RISC (Reduced Instruction Set Computer).,Computer Science,Computer Architecture,3,thehitman@gmail.com
+1,What is the role of the microprogram in a processor?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,"Define the term CISC (Complex Instruction Set Computer).""""""""",Computer Science,Computer Architecture,3,thehitman@gmail.com
+1,What is the purpose of the cache controller in a CPU?,Computer Science,Computer Architecture,2,thehitman@gmail.com
+1,Explain the concept of endianness in computer architecture.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the differences between a single-core and a multi-core processor.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the purpose and working of a branch predictor in computer architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,What is the role of the FPU (Floating-Point Unit) in a CPU?,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the principles and benefits of using pipelined architecture in CPUs.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the concept of the memory hierarchy in computer systems.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the differences between a synchronous and an asynchronous processor.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the purpose and working of the Memory Management Unit (MMU).,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Explain the concept of cache coherency in multiprocessor systems.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the differences between a fixed-point and a floating-point representation of numbers.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the purpose and use of branch instructions in CPU architectures.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the principles and benefits of using a superscalar processor.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the concept of cache mapping techniques such as direct-mapped and set-associative and fully associative.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the differences between little-endian and big-endian byte ordering.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the purpose and working of the virtual memory system in computer architecture.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the benefits and challenges of using a distributed database architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+2,Explain the differences between a synchronous and an asynchronous bus in computer architecture.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+2,Discuss the principles and benefits of using a cache memory in computer systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Explain the working principles of the Fetch-Decode-Execute cycle in a CPU.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Discuss the differences between a Harvard architecture and a Von Neumann architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Explain the concept of the memory-mapped I/O (Input/Output) in computer systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the benefits and drawbacks of using a complex instruction set in computer architecture.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the purpose and working of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the differences between a CISC (Complex Instruction Set Computer) and a RISC (Reduced Instruction Set Computer) processor.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the concept of cache write policies including write-through and write-back.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the benefits and challenges of using a speculative execution in a CPU.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the purpose and working of the Interrupt Request (IRQ) system in computer architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the differences between a single-level and a multi-level cache hierarchy.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the concept of a pipelined floating-point unit in a CPU.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the benefits and drawbacks of using a SIMD (Single Instruction Multiple Data) instruction set architecture.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the purpose and working of the Branch Target Buffer (BTB) in a CPU.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the differences between a synchronous and an asynchronous memory.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the concept of cache replacement policies such as LRU (Least Recently Used) and FIFO (First-In-First-Out).,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the principles and benefits of using a multi-threaded processor.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the purpose and use of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the differences between a multi-core and a many-core processor.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+3,Explain the concept of cache coherence protocols such as MESI (Modified Exclusive Shared Invalid).,Computer Science,Computer Architecture,4,thehitman@gmail.com
+3,Discuss the principles and benefits of using a SIMD (Single Instruction Multiple Data) architecture for multimedia processing.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+4,Discuss the working principles of the memory hierarchy and its impact on computer system performance.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the differences between a pipelined and a non-pipelined processor design.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the benefits and challenges of using a multi-core processor architecture for parallel processing.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the concept of speculative execution and its role in enhancing CPU performance.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the differences between a scalar processor and a vector processor.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the purpose and working of the Memory Management Unit (MMU) for virtual memory management.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using a cache memory in computer systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the concept of SIMD (Single Instruction Multiple Data) parallelism and its applications in computer architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the purpose and working of the Translation Lookaside Buffer (TLB) for virtual memory management.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using a multi-level cache hierarchy in computer systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the concept of data hazards in pipelined processors and techniques to mitigate them.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the differences between a synchronous and an asynchronous memory bus.,Computer Science,Computer Architecture,3,thehitman@gmail.com
+4,Explain the purpose and working of the Write Buffer in a CPU.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the principles and benefits of using a multi-threaded processor for concurrency.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the concept of branch prediction and its impact on CPU performance.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the differences between a Harvard architecture and a Modified Harvard architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Explain the purpose and use of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,Discuss the benefits and drawbacks of using a speculative execution in a CPU.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the purpose and working of the MMU (Memory Management Unit) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a synchronous and an asynchronous memory bus in computer architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the concept of data hazards in pipelined processors and techniques to mitigate them.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the benefits and challenges of using a superscalar processor architecture.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the purpose and working of the Translation Lookaside Buffer (TLB) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the principles and benefits of using a multi-threaded processor for concurrency.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the concept of branch prediction and its impact on CPU performance.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a Harvard architecture and a Modified Harvard architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the purpose and use of the Translation Lookaside Buffer (TLB) in virtual memory systems.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the benefits and drawbacks of using a speculative execution in a CPU.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the differences between a scalar processor and a vector processor.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the purpose and working of the Memory Management Unit (MMU) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a synchronous and an asynchronous memory bus.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+5,Explain the concept of data hazards in pipelined processors and techniques to mitigate them.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the benefits and challenges of using a superscalar processor architecture.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the purpose and working of the Translation Lookaside Buffer (TLB) for virtual memory management.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the principles and benefits of using a multi-threaded processor for concurrency.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Explain the concept of branch prediction and its impact on CPU performance.,Computer Science,Computer Architecture,5,thehitman@gmail.com
+5,Discuss the differences between a Harvard architecture and a Modified Harvard architecture.,Computer Science,Computer Architecture,4,thehitman@gmail.com
+4,What is the maximum value of destination port of TCP?,Computer Science,Networking,4,thehitman@gmail.com
+4,Descride the OSI model?,Computer Science,Networking,3,thehitman@gmail.com
+2,What are the differences between stack and queue?,Computer Science,Data Structures,4,thehitman@gmail.com
+4,How does TCP handle flow control?,Computer Science,Networking,5,thehitman@gmail.com
+4,Describe flow control in TCP?,Computer Science,Networking,5,thehitman@gmail.com
+2,Compare and contrast the greedy and dynamic programming approaches.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Explain the divide and conquer strategy with an example.,Computer Science,Algorithms,3,thehitman@gmail.com
+2,Describe the process of finding the kth smallest element in an unsorted array.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Compare the time complexities of quicksort and mergesort.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Implement the binary search algorithm and analyze its time complexity.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Discuss the key features of the Bellman-Ford algorithm for finding shortest paths.,Computer Science,Algorithms,5,thehitman@gmail.com
+2,Explain the concept of a topological sort in directed acyclic graphs (DAGs).,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Compare and contrast the time complexities of recursive and iterative algorithms.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Describe the process of finding all possible subsets of a set using backtracking.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Implement Kruskal's algorithm to find the minimum spanning tree of a graph.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Discuss the principles of dynamic programming to solve a knapsack problem.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Explain the process of performing matrix multiplication using the Strassen algorithm.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Implement the insertion sort algorithm and analyze its time complexity.,Computer Science,Algorithms,3,thehitman@gmail.com
+2,Describe the working principle of the Rabin-Karp algorithm for string matching.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Compare the time complexities of breadth-first search (BFS) and depth-first search (DFS).,Computer Science,Algorithms,3,thehitman@gmail.com
+2,Discuss the applications and limitations of the Floyd-Warshall algorithm.,Computer Science,Algorithms,5,thehitman@gmail.com
+2,Implement the selection sort algorithm and analyze its time complexity.,Computer Science,Algorithms,3,thehitman@gmail.com
+2,Describe the process of constructing a suffix tree from a given string.,Computer Science,Algorithms,5,thehitman@gmail.com
+2,Compare and contrast the time complexities of Dijkstra's and Prim's algorithms.,Computer Science,Algorithms,4,thehitman@gmail.com
+2,Discuss the concept of randomized algorithms and their advantages.,Computer Science,Algorithms,5,thehitman@gmail.com
+2,Explain the differences between local and global variables in programming.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Describe the purpose of pointers and their role in memory management.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Implement a function to reverse a linked list in-place.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Discuss the concept of function overloading and provide an example.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Compare and contrast pass-by-value and pass-by-reference in function arguments.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Implement a recursive function to calculate the factorial of a positive integer.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Describe the process of reading and writing binary files in C++.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Explain the concept of operator overloading with an example.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Implement a stack-based approach to check balanced parentheses in an expression.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Compare the advantages and disadvantages of using arrays and linked lists.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Describe the process of creating and using objects in object-oriented programming.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Implement a class for a basic calculator with add subtract multiply and divide operations.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Discuss the use of try-catch blocks for exception handling in programming.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,"Explain the purpose of the this"""" pointer in C++ and its application in classes.""""",Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Implement a function to merge two sorted arrays into a single sorted array.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Describe the working principle of inheritance in object-oriented programming with an example.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,Compare the advantages of using dynamic memory allocation over static memory allocation.,Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Implement a program to find the maximum and minimum elements in an array.,Computer Science,Computer Programming,4,thehitman@gmail.com
+2,"Discuss the use of the const"""" keyword in C++ and its significance.""""",Computer Science,Computer Programming,3,thehitman@gmail.com
+2,Implement a function to check whether a given string is a palindrome or not.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Explain the working of a doubly linked list and its advantages over a singly linked list.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Discuss the applications of a stack in real-world scenarios and its limitations.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Implement a binary search tree and perform the delete operation for a given node.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Describe the process of implementing a hash table with open addressing.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Explain the concept of AVL trees and how they maintain balanced height.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Implement the Floyd-Warshall algorithm to find all-pairs shortest paths in a graph.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Discuss the design and implementation of a trie-based autocomplete system.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Compare and contrast various collision resolution techniques in hashing.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Implement the Kruskal's algorithm with a union-find data structure for MST.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Explain the concept of tries and its use in dictionary-based applications.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Describe the working of a skip list and its efficiency in searching and insertion.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Implement a priority queue using a heap and demonstrate its time complexities.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Discuss the implementation of Dijkstra's algorithm using a min-priority queue.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Explain the concept of a B+ tree and its use in database indexing.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Compare and contrast the adjacency matrix and adjacency list representations of a graph.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Implement the operations of push pop and min in an efficient min-stack.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Describe the working principle of a bloom filter and analyze its false positive rate.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Discuss the implementation of an LRU cache using a doubly linked list and a hash map.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Explain the concept of a disjoint-set data structure with the union-by-rank and path compression.,Computer Science,Data Structures,5,thehitman@gmail.com
+3,Implement a circular buffer with dynamic resizing and demonstrate its usage.,Computer Science,Data Structures,4,thehitman@gmail.com
+3,Compare the time and space complexity of iterative and recursive algorithms.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Describe the process of applying the master theorem to analyze divide-and-conquer algorithms.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Implement the Karatsuba algorithm for efficient multiplication of large integers.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Explain the concept of memoization and its use in optimizing recursive algorithms.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Discuss the working of the A* search algorithm and its heuristic function.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Implement the Ford-Fulkerson algorithm for finding the maximum flow in a network.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Describe the process of constructing a suffix array and its applications.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Discuss the design and working of randomized quicksort and its expected time complexity.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Implement the Boyer-Moore algorithm for string searching and analyze its performance.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Explain the concept of matrix chain multiplication and its dynamic programming solution.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Discuss the concept of NP-hard problems and the relationship with polynomial-time reductions.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Implement the traveling salesman problem (TSP) using the branch-and-bound algorithm.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Describe the principles of the Rabin-Karp algorithm for multiple pattern string matching.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Discuss the working of the Karger's algorithm for finding the minimum cut in a graph.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Implement the Boyer-Moore-Horspool algorithm for substring searching and analyze its efficiency.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Explain the concept of the K-d tree and its use in multidimensional search structures.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Discuss the principles of the Bresenham's line drawing algorithm with an example.,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Implement the Topological Sort algorithm for a directed acyclic graph (DAG).,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Explain the process of converting a regular expression to a non-deterministic finite automaton (NFA).,Computer Science,Algorithms,4,thehitman@gmail.com
+3,Implement the Knuth-Morris-Pratt algorithm for pattern matching and analyze its time complexity.,Computer Science,Algorithms,5,thehitman@gmail.com
+3,Discuss the benefits and challenges of using recursion in programming.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Implement a function to find the GCD (Greatest Common Divisor) of two numbers using Euclid's algorithm.,Computer Science,Computer Programming,5,thehitman@gmail.com
+3,Describe the working principle of a doubly linked list and demonstrate its usage.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Discuss the importance of exception handling in error-prone situations.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Implement a binary search function in Python and analyze its time complexity.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Explain the concept of inheritance in object-oriented programming with real-world examples.,Computer Science,Computer Programming,5,thehitman@gmail.com
+3,"Discuss the role of the const"""" keyword in C++ and its use in member functions.""""",Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Implement a function to reverse a string using recursion and analyze its efficiency.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Describe the process of reading and writing CSV files in Python.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Explain the concept of operator overloading with multiple examples in C++.,Computer Science,Computer Programming,5,thehitman@gmail.com
+3,Discuss the differences between abstract classes and interfaces in Java.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Implement a function to find the factorial of a non-negative integer using iteration.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Describe the principles of method overloading in object-oriented programming.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Discuss the use of pointers to create dynamic arrays in C.,Computer Science,Computer Programming,5,thehitman@gmail.com
+3,Implement a program to sort an array using the insertion sort algorithm.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Explain the process of implementing a stack using a linked list in C.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Discuss the importance of data validation and sanitization in programming.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Implement a function to check if a given string is an anagram or not.,Computer Science,Computer Programming,4,thehitman@gmail.com
+3,Describe the working of a binary search tree (BST) and its operations.,Computer Science,Computer Programming,5,thehitman@gmail.com
+3,Implement a program to find the factorial of a number using recursion in Python.,Computer Science,Computer Programming,4,thehitman@gmail.com
+
